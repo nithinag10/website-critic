@@ -1,0 +1,15 @@
+/venv
+
+/logs
+
+/competitors_websites
+
+/target_websites
+
+/combined_vectorstore
+
+faiss_documents.*
+
+/raw_segments
+
+/reports
