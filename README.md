@@ -64,6 +64,18 @@ Commands:
 - Type `quit` to exit
 - Ask any question about the analyzed websites
 
+## Sample Output
+
+Check out a [sample analysis report](samples/reports/sample_analysis.txt) to see what kind of insights the tool provides.
+
+Key analysis areas:
+
+- Navigation Flow Analysis
+- Brand Consistency Review
+- Conversion Funnel Optimization
+- Technical SEO Assessment
+- Emotional Journey Mapping
+
 ## Project Structure
 
 ```
